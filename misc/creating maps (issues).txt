@@ -1,0 +1,9 @@
+map1 <- ggplot(mapdata, aes( x = long, y = lat)) +
+  geom_map(aes(map_id = region, fill = fct_rev(users)), map = world_map) +
+  geom_polygon(data = world_map, aes(x = long, y = lat, group = group), colour = 'black', fill = NA) +
+  expand_limits(x = world_map$long, y = world_map$lat) +
+  scale_fill_manual(name = "Users", values = rev(brewer.pal(5, name = "Reds"))) +
+  theme_void() +
+  coord_fixed() +
+  #scale_fill_viridis_c(option = "plasma", trans = "sqrt")
+map1

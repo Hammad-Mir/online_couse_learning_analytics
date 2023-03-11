@@ -1,0 +1,1 @@
+The helper file contains functions to create maps given an enrolment data.

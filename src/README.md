@@ -1,0 +1,1 @@
+This folder contains EDA r scripts. These were used while exploring the data and developing the analysis.

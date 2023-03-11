@@ -1,0 +1,131 @@
+commit ef2b3836b37262b82d8d8715c2c3e7dce250ad37
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Dec 10 12:14:19 2021 +0000
+
+    Completed ReadME files and analysis closed
+
+commit 807d54cfcc6870aa43d05df8a6f72309ebf1d50c
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Dec 10 11:36:49 2021 +0000
+
+    Report completed
+
+commit 3936f45758620b054b0273139f77377ff23f0aa8
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Dec 10 08:51:29 2021 +0000
+
+    Report updated and helper function updated
+
+commit 5d8d52e875558e6c84b99e5d56e6b4f2398cbcec
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Dec 10 08:47:11 2021 +0000
+
+    helper function updated
+
+commit c8ce47718a7438b6dec3e7c41d946f80cd08952c
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Dec 10 08:39:35 2021 +0000
+
+    helper function updated
+
+commit 08975aa966033d393a16e8c055c7863ad9330306
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Dec 10 08:39:06 2021 +0000
+
+    Report updated and helper function updated
+
+commit 9ec9802689eb2bb53a3e99e5f6c4c95c82340315
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Fri Dec 10 05:57:52 2021 +0000
+
+    added country entries cleaning to munge
+
+commit 97ccd54355b4e484ab84c5437b6b326cac362abe
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Thu Dec 9 05:56:44 2021 +0000
+
+    generated plot showing comparison of user features over 7 runs of the course
+
+commit 35d0521c521558bfc7ca6b84042de1cd94159581
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Thu Dec 9 03:27:21 2021 +0000
+
+    generated plot showing distribution of users across different features
+
+commit 1e0110cbb8d7923ccb9151ed6c12e8205982f05b
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Thu Dec 9 02:23:26 2021 +0000
+
+    updated global.dcf: added another library to include
+
+commit 43dd702a41908ffbb239652210d40fc733284927
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Wed Dec 8 21:44:50 2021 +0000
+
+    plot enrolments over 7 iterations
+
+commit acb05db621e014080479d36d755c2c02ab0bd81c
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Wed Dec 8 20:23:35 2021 +0000
+
+    updated helper function to plot interactive map showing users per country
+
+commit 6d12b6bdd8ed11e755b4a7bb0d58ec9eab4dda91
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Wed Dec 8 19:50:27 2021 +0000
+
+    created helper function for plotting enrollment maps and updated global.dcf
+
+commit 49b6452ac49dddab924dd3fd35b92d9edff89cad
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Wed Dec 8 18:57:38 2021 +0000
+
+    matched country with detected country
+
+commit 63aa868067545e6c10ba3ebed4831b263be45fc0
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Wed Dec 8 14:20:51 2021 +0000
+
+    updated global.dcf
+
+commit 3ad29e900c2374e788dc285dd2c17e7430996a40
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Tue Dec 7 00:16:26 2021 +0000
+
+    country-wise users map complete - run 1 evaluation
+
+commit 05170a93d22dfcb8986595ef82b78524f43b1d03
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Tue Dec 7 00:13:03 2021 +0000
+
+    ucountry-wise users map - run 1 evaluation
+
+commit 883bc413bafb13b809d2598713dbff96a2c0a871
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Mon Dec 6 23:39:40 2021 +0000
+
+    exploring dataset - run 1 evaluation
+
+commit 1c7c4cd1abcb09279d975cd53e41ca30789998ec
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Mon Dec 6 19:25:28 2021 +0000
+
+    Start EDA
+
+commit 931d2fbd3d318c90b0dd128b9a95965cf6c78148
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Mon Dec 6 12:00:01 2021 +0000
+
+    Sync all files in the Project
+
+commit 4037bc70ab99b502d0704730f81b4857326fd5d6
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Wed Nov 24 19:56:58 2021 +0000
+
+    Imported data and setup markdown
+
+commit 31cfaa50e47902fd533e3dae1e2e668e658af657
+Author: Hammad Mir <hammaduleaman@gmail.com>
+Date:   Wed Nov 24 19:36:57 2021 +0000
+
+    Set up Project Template
